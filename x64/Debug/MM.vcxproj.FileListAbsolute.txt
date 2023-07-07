@@ -1,0 +1,10 @@
+C:\Users\wilte\OneDrive\Documentos\MM\x64\Debug\MM.vcxproj.AssemblyReference.cache
+C:\Users\wilte\OneDrive\Documentos\MM\x64\Debug\MM.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\wilte\OneDrive\Documentos\MM\x64\Debug\MM.exe
+C:\Users\wilte\OneDrive\Documentos\MM\x64\Debug\MM.Form1.resources
+C:\Users\wilte\OneDrive\Documentos\MM\x64\Debug\MM.vcxproj.GenerateResource.cache
+C:\Users\wilte\OneDrive\Escritorio\MM\MM\x64\Debug\MM.vcxproj.AssemblyReference.cache
+C:\Users\wilte\OneDrive\Escritorio\MM\MM\x64\Debug\MM.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\wilte\OneDrive\Escritorio\MM\MM\x64\Debug\MM.Form1.resources
+C:\Users\wilte\OneDrive\Escritorio\MM\MM\x64\Debug\MM.vcxproj.GenerateResource.cache
+C:\Users\wilte\OneDrive\Escritorio\MM\MM\x64\Debug\MM.exe
